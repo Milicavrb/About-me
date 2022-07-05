@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0;
+    background-color: bisque;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline 5px black;
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: left;
+    text-decoration: 5px underline dashed olivedrab;
+    margin: 15px 35px;
+}
+
+
+#hoby {
+    color: black;
+    font-size: larger;
+    text-align: left;
+
+}
+
+
+
+p {
+    text-align: center;
+    margin: 30px 50px;
+}
+
+footer {
+    border: 2px dashed brown;
+    background-color: burlywood;
+    margin-top: 50px;
+
+}
+
+footer>p {
+    font-size: larger;
+    text-align: center;
+
+}
